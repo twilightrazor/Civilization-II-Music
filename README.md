@@ -1,4 +1,4 @@
-# Civilization II Music
+# Civilization II Music add-on
 Simply adds the original Civilization II music to Unciv.
 
 ## - !!! This music was NOT created by me !!! - ##
